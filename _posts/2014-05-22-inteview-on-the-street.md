@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "受访记（一）(移)"
+title:  "受访记（一）（移）"
 date:   2014-05-22 23:59:59
 categories: 微小说
 ---

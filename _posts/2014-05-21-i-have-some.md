@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "我有一些苦闷(移)"
+title:  "我有一些苦闷（移）"
 date:   2014-05-21 23:59:59
 categories: 无题
 ---
