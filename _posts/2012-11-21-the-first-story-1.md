@@ -9,14 +9,12 @@ categories: 蚊子与Ann
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>——帷幕徐徐打开，
-就是缓缓地合上；生命无可奈何地逝去，亦是充满希望的蓬勃新生；这是故事的开始，还是结束？</i>
+<i>——帷幕徐徐打开，就是缓缓地合上；生命无可奈何地逝去，亦是充满希望的蓬勃新生；这是故事的开始，还是结束？</i>
 
 他是一只公蚊子，修长有力的六条腿，轻盈的翅，长长的尖锐口器。
 
-他住在302，一套公寓，这里也住着他的许多同类，但他们很少交流，要知道，一百五十平方，对蚊子来说，
-是很广阔的一片天地，是一个独立的王国。
+他住在302，一套公寓，这里也住着他的许多同类，但他们很少交流，要知道，一百五十平方，
+对蚊子来说，是很广阔的一片天地，是一个独立的王国。
 
 四个人类跟他们住在一起，作为供养他们的血食。一对情侣，一个刚毕业的小胖女孩，还有一个叫Ann的女孩。
 
