@@ -1,11 +1,23 @@
 ---
 layout: page
 title: 关于
+header: 谭学诚
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+好文，不精。性懒惰，易懈怠。嗜辣。
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+<tanxuecheng@outlook.com>
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+[http://tanxuecheng.github.io](http://tanxuecheng.github.io)
+
+[https://github.com/TanXuecheng](https://github.com/TanXuecheng)
+
+
+#### 骝马新跨白玉鞍，
+
+#### 战罢沙场月色寒。
+
+#### 城头铁鼓声犹震，
+
+#### 匣里金刀血未干。
