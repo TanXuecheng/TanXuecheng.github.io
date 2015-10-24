@@ -23,7 +23,7 @@ React Native　0.12.0，考虑 React Native for Android　刚出来不久，应�
 
 **git 仓库**
 
-https://github.com/TanXuecheng/AppAboutTianYuanyuan
+[https://github.com/TanXuecheng/AppAboutTianYuanyuan](https://github.com/TanXuecheng/AppAboutTianYuanyuan)
 
 采用 GPL 协议。
 
