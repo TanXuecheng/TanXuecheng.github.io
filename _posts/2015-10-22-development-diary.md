@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "AppAboutTianYuanyuan 开发日记(1)"
+title:  "App 开发日记(1)"
 date:   2015-10-22 23:59:59
 categories: 时光
 ---
