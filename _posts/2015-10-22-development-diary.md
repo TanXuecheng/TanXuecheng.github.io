@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "APP 开发日记"
+title:  "App 开发日记"
 date:   2015-10-22 23:59:59
 categories: 时光
 ---
